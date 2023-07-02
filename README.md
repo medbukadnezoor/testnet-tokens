@@ -1,5 +1,7 @@
 How to Deploy Testnet Tokens in EVM Testnets Tutorial
+
 Introduction
+
 This tutorial is designed to guide you through the process of deploying your own testnet tokens on Ethereum Virtual Machine (EVM) testnets. As a developer, deploying tokens in a testnet environment is a critical skill to hone. You get to test your tokens and smart contracts without any real-world financial implications. Moreover, doing so allows you to participate in token airdrops, which are distribution of tokens to network participants, often for free. These airdrops can serve as a promotional activity, sparking interest and encouraging wider use of your token.
 
 But why does this matter? Well, in the bubbling cauldron of blockchain development, airdrops are the secret spices that can give your project the flavor it needs to stand out. The testnet environment allows you to experiment with these ingredients, tweaking and perfecting your recipe before presenting it to the world.
